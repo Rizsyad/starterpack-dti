@@ -1,2 +1,1 @@
-# starterpack-dti
- starterpack-dti
+# Starter Pack Laravel DTI
